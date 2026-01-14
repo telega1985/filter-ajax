@@ -1,0 +1,14 @@
+{
+    "apiVersion": 2,
+    "name": "eshop/advantage-item",
+    "title": "Преимущество (элемент)",
+    "category": "widgets",
+    "editorScript": "file:./editor.js",
+    "render": "file:./render.php",
+    "supports": {
+        "html": false
+    },
+    "parent": [
+        "eshop/advantages-wrapper"
+    ]
+}

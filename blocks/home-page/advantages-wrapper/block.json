@@ -1,0 +1,12 @@
+{
+    "apiVersion": 2,
+    "name": "eshop/advantages-wrapper",
+    "title": "Секция: Преимущества",
+    "category": "widgets",
+    "icon": "star-filled",
+    "editorScript": "file:./editor.js",
+    "render": "file:./render.php",
+    "supports": {
+        "html": false
+    }
+}
